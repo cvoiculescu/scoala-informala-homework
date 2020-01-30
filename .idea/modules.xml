@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/scoala-informala-homework.iml" filepath="$PROJECT_DIR$/scoala-informala-homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/homework-01/homework-01.iml" filepath="$PROJECT_DIR$/homework-01/homework-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/homework-05/homework-05.iml" filepath="$PROJECT_DIR$/homework-05/homework-05.iml" />
       <module fileurl="file://$PROJECT_DIR$/homework-06/homework-06.iml" filepath="$PROJECT_DIR$/homework-06/homework-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework-07/homework-07.iml" filepath="$PROJECT_DIR$/homework-07/homework-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scoala-informala-homework.iml" filepath="$PROJECT_DIR$/scoala-informala-homework.iml" />
     </modules>
   </component>
 </project>
